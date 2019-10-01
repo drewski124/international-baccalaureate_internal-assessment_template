@@ -1,30 +1,27 @@
-# [Write your project name]
+# Ultimate Squash Fuel
 
 ## Problem Question
-[write the question your project seeks to find a solution for]
+What should I eat before my next squash game?
 
 ### Project Description
-[write a paragraph describing your client, your client's problem, and the solution you plan to create with your project.]
+My client is the average squash player. This person plays squash regularly and goes to games often. My clients problem is that he doesnt know what to eat for his next squash game so the person can be properly fueled. I plan to create a solution to the age old problem of what to eat before your next squash game.
 
 ### Project Timeline
 
 #### Sep-Oct    (month 0-1)
-[create a bulleted list describing the parts of the project you plan to work on]
-* example bullet list item
+Finish Idea
+Start Coding
 
 #### Oct-Nov    (month 1-2)
-[create a bulleted list describing the parts of the project you plan to work on]
-
+Finish Coding
+prototype
 #### Nov-Dec    (month 2-1)
-[create a bulleted list describing the parts of the project you plan to work on]
+Testing
 
 #### Dec-Jan    (month 3-4)
-[create a bulleted list describing the parts of the project you plan to work on]
+Get feedback
 
 #### Jan-Feb    (month 4-5)
-[create a bulleted list describing the parts of the project you plan to work on]
-
+Finish up project make it look good
 #### Feb-March  (month 5-6)
-
-
-
+publish
