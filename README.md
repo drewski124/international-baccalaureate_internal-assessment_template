@@ -26,6 +26,15 @@ Finish up project make it look good
 #### Feb-March  (month 5-6)
 publish
 
+# Scenario
+My client squash, because this is what my program is mainly for. I talked about how my client doesnt know what food is best for their squash game. My client wants there food plan al mapped out. I dont know who my advisor is yet. My product is a squash food planner that adjusts itself based on what the client needs. It is appropriate to the problem because the problem is the person isnt getting the correct food. 
+
+# Rationale
+The software I will be building is a food planner for the squash team. I am either gonna build it in javascript or python, I havent decided which one is better for my project yet. I will most likly use the p5.js library if I am to use javascript in my code. I think this would be a good program for the Squash player cause many of the students dont know what would be best for them to eat. 
+
+# Success Criteria
+My product is going to help the sqush team perform and be more active on the court
+
 # Interview
 How many games of squash do you play during the seasons?
 	On average I play around 10 squash games per season. But that doesn't include the numerous practices and other training that comes with being on the team. 
