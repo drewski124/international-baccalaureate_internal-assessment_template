@@ -31,10 +31,10 @@ My client is Willem to help with his squash game, because this is what my progra
 
 
 # Rationale
-The software I will be building is a food planner for the squash team. I am either gonna build it in javascript or python, I havent decided which one is better for my project yet. I will most likly use the p5.js library if I am to use javascript in my code. I think this would be a good program for the Squash player cause many of the students dont know what would be best for them to eat. 
+The software I will be building is a food planner for the squash team. I am going to build it by using Javascript. I will likely use the p5.js library for my javascript code. I think this would be a good program for the Squash player cause many of my teammates don't know what would be best for them to eat before each Squash practice and game.
 
 # Success Criteria
-My product is going to help the sqush team perform and be more active on the court
+My product is going to help Willem perform better and be more active on the court. This will be acheived by using the program to help improve their diet and consequently give him more energy. 
 
 # Interview
 How many games of squash do you play during the seasons?
