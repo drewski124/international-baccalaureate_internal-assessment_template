@@ -27,7 +27,8 @@ Finish up project make it look good
 publish
 
 # Scenario
-My client squash, because this is what my program is mainly for. I talked about how my client doesnt know what food is best for their squash game. My client wants there food plan al mapped out. I dont know who my advisor is yet. My product is a squash food planner that adjusts itself based on what the client needs. It is appropriate to the problem because the problem is the person isnt getting the correct food. 
+My client is Willem to help with his squash game, because this is what my program is mainly for. I talked about how my client doesn't know what food is best for their squash game and what would give them the most energy. My client wants their food plan all mapped out. My advisor is Daniel Paccione. My product is a squash food planner that adjusts itself based on what the client needs. It is appropriate to the problem because the problem is the person isn't getting the necessary energy required for squash from his diet.
+
 
 # Rationale
 The software I will be building is a food planner for the squash team. I am either gonna build it in javascript or python, I havent decided which one is better for my project yet. I will most likly use the p5.js library if I am to use javascript in my code. I think this would be a good program for the Squash player cause many of the students dont know what would be best for them to eat. 
